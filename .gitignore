@@ -1,0 +1,23 @@
+# Laravel
+/vendor
+/node_modules
+/.env
+/.env.*
+/public/storage
+/storage/*.key
+/.idea
+/.vscode
+
+# IDE files
+/.phpstorm
+/.vscode
+/.DS_Store
+Thumbs.db
+
+# Composer / NPM dependencies
+composer.lock
+package-lock.json
+
+# Laravel debugbar
+/.phpunit.result.cache
+/.debugbar
